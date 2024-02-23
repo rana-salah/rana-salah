@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a passionate learner trying to merge the gap between Bioinformatics and Medicine! 👩‍🔬
 <!--
 **rana-salah/rana-salah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
